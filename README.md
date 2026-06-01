@@ -130,5 +130,5 @@ The original setup concept was adapted from the open-source community documentat
 ## Connect With Author
 
 - **GitHub:** [@SyedaQurratAI](https://github.com/SyedaQurratAI)  
-- **Portfolio:** [qurrat-portfolio.vercel.app](https://syedaqurratai.vercel.app/](https://syedaqurratai.vercel.app/))
+- **Portfolio:** [syedaqurratai.vercel.app](https://syedaqurratai.vercel.app/)
 
